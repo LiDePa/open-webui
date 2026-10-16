@@ -2970,7 +2970,7 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Deferral Threshold (characters)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Guides how the assistant formats tool and function calls.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Tools Function Calling Prompt",
-	"settings.admin.interface.toolTokenThreshold.description": "Increase this limit to let long tool runs temporarily use larger contexts",
+	"settings.admin.interface.toolTokenThreshold.description": "Allow more context during long tool runs before compaction. New user messages still trigger the regular compaction threshold.",
 	"settings.admin.interface.toolTokenThreshold.label": "Tool Round Token Threshold",
 	"settings.admin.interface.voiceModePrompt.description": "Apply voice-specific instructions while voice mode is active.",
 	"settings.admin.interface.voiceModePrompt.label": "Voice Mode Prompt",
