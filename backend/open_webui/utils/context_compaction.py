@@ -50,6 +50,7 @@ async def compact_messages_for_request(
     model_id: str,
     models: dict,
     system_prompt: str = '',
+    tool_round: bool = False,
 ) -> tuple[list[dict], str | None, bool]:
     config = await _load_config()
     if not config['enable']:
@@ -61,6 +62,9 @@ async def compact_messages_for_request(
     messages, previous_summary = _apply_latest_summary_checkpoint(messages)
     system_prompt = system_prompt or (get_content_from_message(system_messages[0]) if system_messages else '')
     token_threshold = _resolve_token_threshold(config['token_threshold'], config['token_cap'], metadata)
+    if tool_round and config['tool_token_threshold'] is not None:
+        # Explicit admin tool thresholds are independent of model overrides and their cap.
+        token_threshold = config['tool_token_threshold']
     if not _exceeds_token_threshold(messages, system_prompt, previous_summary, token_threshold) or len(messages) <= 3:
         return [*system_messages, *messages], previous_summary, False
 
@@ -204,6 +208,7 @@ async def _load_config() -> dict:
     values = await Config.get_many(
         'chat.context_compaction.enable',
         'chat.context_compaction.token_threshold',
+        'chat.context_compaction.tool_token_threshold',
         'chat.context_compaction.token_cap',
         'chat.context_compaction.retention_percentage',
         'chat.context_compaction.prompt_template',
@@ -212,10 +217,19 @@ async def _load_config() -> dict:
     return {
         'enable': bool(values.get('chat.context_compaction.enable', False)),
         'token_threshold': token_threshold,
+        'tool_token_threshold': _parse_nonnegative_int(values.get('chat.context_compaction.tool_token_threshold')),
         'token_cap': _parse_positive_int(values.get('chat.context_compaction.token_cap')) or token_threshold,
         'retention_percentage': _clamp_retention_percentage(values.get('chat.context_compaction.retention_percentage')),
         'prompt_template': values.get('chat.context_compaction.prompt_template', '') or '',
     }
+
+
+def _parse_nonnegative_int(value: Any) -> int | None:
+    try:
+        parsed = int(value)
+    except (TypeError, ValueError):
+        return None
+    return parsed if parsed >= 0 else None
 
 
 def _parse_positive_int(value: Any) -> int | None:

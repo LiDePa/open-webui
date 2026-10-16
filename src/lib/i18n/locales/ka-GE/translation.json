@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "გადადების ზღვარი (სიმბოლოებში)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "წარმართავს, როგორ აფორმებს დამხმარე ხელსაწყოებისა და ფუნქციების გამოძახებებს.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "ხელსაწყოების ფუნქციის გამოძახების მოთხოვნა",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "ხმის რეჟიმის აქტიურობისას იყენებს ხმისთვის განკუთვნილ ინსტრუქციებს.",
 	"settings.admin.interface.voiceModePrompt.label": "ხმის რეჟიმის მოთხოვნა",
 	"settings.admin.interface.webSearchQueryGeneration.description": "გადაწერს მომხმარებლის მოთხოვნებს ვებში ძებნის მოთხოვნებად.",

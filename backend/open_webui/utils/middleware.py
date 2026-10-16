@@ -5973,7 +5973,13 @@ async def streaming_chat_response_handler(response, ctx):
                                             metadata.get('base_user_prompt') or user_message, [message]
                                         )
                                     messages, context_summary, compacted = await compact_messages_for_request(
-                                        request, user, messages, metadata, model_id, request.app.state.MODELS
+                                        request,
+                                        user,
+                                        messages,
+                                        metadata,
+                                        model_id,
+                                        request.app.state.MODELS,
+                                        tool_round=True,
                                     )
                                 finally:
                                     for message, content in user_messages:

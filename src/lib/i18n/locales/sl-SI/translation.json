@@ -3004,6 +3004,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Prag odlaganja (znaki)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Usmerja, kako asistent oblikuje klice orodij in funkcij.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Tools Function Calling Prompt",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Uporabi navodila, specifična za glas, medtem ko je glasovni način aktiven.",
 	"settings.admin.interface.voiceModePrompt.label": "Voice Mode Prompt",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Prepiši uporabniške zahteve v poizvedbe spletnega iskanja.",

@@ -2987,6 +2987,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "סף לדחיית טעינה (תווים)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "מנחה את העוזר כיצד לעצב קריאות לכלים ולפונקציות.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "הנחיית קריאה לפונקציות של כלים",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "החלת הוראות ייעודיות לקול כשהמצב הקולי פעיל.",
 	"settings.admin.interface.voiceModePrompt.label": "הנחיית מצב קולי",
 	"settings.admin.interface.webSearchQueryGeneration.description": "שכתוב בקשות משתמשים לשאילתות חיפוש באינטרנט.",

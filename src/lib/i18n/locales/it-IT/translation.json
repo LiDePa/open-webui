@@ -2987,6 +2987,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Soglia di rinvio (caratteri)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Guida il modo in cui l'assistente formatta le chiamate a strumenti e funzioni.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Prompt di Chiamata Funzione dei Strumenti",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Applica istruzioni specifiche per la voce mentre la modalità vocale è attiva.",
 	"settings.admin.interface.voiceModePrompt.label": "Prompt della modalità vocale",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Riscrivi le richieste dell'utente in query di ricerca web.",

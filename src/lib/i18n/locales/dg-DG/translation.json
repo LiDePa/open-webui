@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Guides how such assistant formats tool and function calls. Such think.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Such Tools Function Calling Prompt",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Apply voice-specific instructions while voice mode is active. Such ears.",
 	"settings.admin.interface.voiceModePrompt.label": "Such Voice Mode Prompt",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Rewrite user requests into web-search queries. Much sniff.",

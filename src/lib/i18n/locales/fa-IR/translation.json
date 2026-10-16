@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "آستانه تعویق (کاراکتر)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "نحوه قالب\u200cبندی فراخوانی\u200cهای ابزار و تابع توسط دستیار را هدایت می\u200cکند.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "پرامپت فراخوانی تابع ابزارها",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "هنگامی که حالت صوتی فعال است، دستورالعمل\u200cهای مختص صوت را اعمال کنید.",
 	"settings.admin.interface.voiceModePrompt.label": "پرامپت حالت صوتی",
 	"settings.admin.interface.webSearchQueryGeneration.description": "درخواست\u200cهای کاربر را به پرس\u200cوجوهای جستجوی وب بازنویسی کنید.",

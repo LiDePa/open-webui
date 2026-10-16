@@ -2969,6 +2969,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Ambang Penangguhan (aksara)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Membimbing cara pembantu memformat panggilan alat dan fungsi.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Gesaan Pemanggilan Fungsi Alat",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Gunakan arahan khusus suara semasa mod suara aktif.",
 	"settings.admin.interface.voiceModePrompt.label": "Gesaan Mod Suara",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Tulis semula permintaan pengguna ke dalam pertanyaan carian web.",

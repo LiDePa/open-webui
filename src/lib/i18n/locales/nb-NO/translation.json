@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Terskel for utsettelse (tegn)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Styrer hvordan assistenten formaterer verktøy- og funksjonskall.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Ledetekst for kalling av verktøyfunksjonen",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Bruk talespesifikke instruksjoner mens talemodus er aktiv.",
 	"settings.admin.interface.voiceModePrompt.label": "Ledetekst for talemodus",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Skriv om brukerforespørsler til spørringer for nettsøk.",

@@ -3038,6 +3038,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "حد التأجيل (بالأحرف)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "توجّه كيفية تنسيق المساعد لاستدعاءات الأدوات والدوال.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "توجيه استدعاء وظائف الأدوات",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "تطبيق التعليمات الخاصة بالصوت أثناء تفعيل الوضع الصوتي.",
 	"settings.admin.interface.voiceModePrompt.label": "مطالبة الوضع الصوتي",
 	"settings.admin.interface.webSearchQueryGeneration.description": "إعادة صياغة طلبات المستخدم إلى استعلامات للبحث على الويب.",

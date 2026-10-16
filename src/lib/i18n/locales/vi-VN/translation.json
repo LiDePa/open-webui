@@ -2953,6 +2953,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Ngưỡng hoãn tải (ký tự)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Hướng dẫn cách trợ lý định dạng các lệnh gọi tool và function.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Prompt Gọi Function của Tools",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Áp dụng hướng dẫn dành riêng cho giọng nói khi chế độ giọng nói đang bật.",
 	"settings.admin.interface.voiceModePrompt.label": "Prompt chế độ giọng nói",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Viết lại yêu cầu của người dùng thành truy vấn tìm kiếm web.",

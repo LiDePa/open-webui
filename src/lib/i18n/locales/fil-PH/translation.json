@@ -2972,6 +2972,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Threshold ng Pagpapaliban (mga character)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Gumagabay sa paraan ng pag-format ng assistant ng mga tool call at function call.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Prompt sa Function Calling ng mga Tool",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Ilapat ang mga tagubiling partikular sa boses habang aktibo ang voice mode.",
 	"settings.admin.interface.voiceModePrompt.label": "Prompt ng Voice Mode",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Muling isulat ang mga request ng gumagamit bilang mga query sa paghahanap sa web.",

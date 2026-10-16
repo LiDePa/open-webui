@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Όριο αναβολής (χαρακτήρες)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Καθοδηγεί τον τρόπο με τον οποίο ο βοηθός μορφοποιεί τις κλήσεις εργαλείων και λειτουργιών.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Προτροπή Κλήσης Εργαλείων Λειτουργιών",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Εφαρμόζει οδηγίες ειδικά για τη φωνή όσο η λειτουργία φωνής είναι ενεργή.",
 	"settings.admin.interface.voiceModePrompt.label": "Προτροπή λειτουργίας φωνής",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Αναδιατυπώνει τα αιτήματα των χρηστών σε ερωτήματα αναζήτησης στο διαδίκτυο.",

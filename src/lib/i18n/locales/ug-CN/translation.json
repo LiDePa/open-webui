@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "كېچىكتۈرۈش چەك قىممىتى (ھەرپ)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "ياردەمچىنىڭ قورال ۋە فۇنكسىيە چاقىرىشلىرىنى قانداق فورماتلايدىغانلىقىغا يېتەكچىلىك قىلىدۇ.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "قورال فۇنكسىيەسىنى چاقىرىش تۈرتكەسى",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "ئاۋاز ھالىتى ئاكتىپ بولغاندا ئاۋازغا خاس كۆرسەتمىلەرنى قوللىنىڭ.",
 	"settings.admin.interface.voiceModePrompt.label": "ئاۋاز ھالىتى تۈرتكەسى",
 	"settings.admin.interface.webSearchQueryGeneration.description": "ئىشلەتكۈچى تەلەپلىرىنى تور ئىزدەش سۇئاللىرىغا قايتا يېزىڭ.",

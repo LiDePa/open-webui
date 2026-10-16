@@ -2969,6 +2969,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "遅延読み込みのしきい値 (文字数)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "アシスタントのツール呼び出しと関数呼び出しの形式を指定します。",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "ツール関数呼び出しプロンプト",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "音声モードが有効な間は、音声専用の指示を適用します。",
 	"settings.admin.interface.voiceModePrompt.label": "音声モードのプロンプト",
 	"settings.admin.interface.webSearchQueryGeneration.description": "ユーザーのリクエストをウェブ検索クエリに書き換えます。",

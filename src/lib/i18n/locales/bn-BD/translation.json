@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "স্থগিত রাখার সীমা (অক্ষর)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "সহকারী কীভাবে টুল ও ফাংশন কল ফরম্যাট করে তা নির্দেশ করে।",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "টুলের ফাংশন কল করার প্রম্পট",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "ভয়েস মোড চালু থাকলে ভয়েসের জন্য নির্দিষ্ট নির্দেশনা প্রয়োগ করুন।",
 	"settings.admin.interface.voiceModePrompt.label": "ভয়েস মোডের প্রম্পট",
 	"settings.admin.interface.webSearchQueryGeneration.description": "ব্যবহারকারীর অনুরোধ ওয়েব অনুসন্ধানের কোয়েরি হিসেবে পুনরায় লিখুন।",

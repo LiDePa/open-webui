@@ -2955,6 +2955,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "지연 로드 임계값(문자 수)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "어시스턴트가 도구 및 함수 호출 형식을 구성하는 방식을 안내합니다.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "도구 함수 호출 프롬프트",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "음성 모드가 활성화된 동안 음성 전용 지침을 적용합니다.",
 	"settings.admin.interface.voiceModePrompt.label": "음성 모드 프롬프트",
 	"settings.admin.interface.webSearchQueryGeneration.description": "사용자 요청을 웹 검색 쿼리로 다시 작성합니다.",

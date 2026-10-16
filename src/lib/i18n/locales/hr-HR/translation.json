@@ -2987,6 +2987,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Prag odgađanja (broj znakova)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Usmjerava način na koji asistent formatira pozive alata i funkcija.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Prompt za pozivanje funkcija alata",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Primijenite upute za glasovne razgovore dok je glasovni način rada aktivan.",
 	"settings.admin.interface.voiceModePrompt.label": "Prompt za glasovni način",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Preoblikuj korisničke zahtjeve u upite za pretraživanje interneta.",

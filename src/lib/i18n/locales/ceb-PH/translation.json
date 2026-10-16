@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Utlanan sa dili dayon pagkarga (mga karakter)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Naggiya kon giunsa sa katabang pag-format ang mga tawag sa himan ug punsiyon.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Aghat sa pagtawag sa punsiyon sa mga himan",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Gamita ang mga panudlo nga alang sa tingog samtang aktibo ang voice mode.",
 	"settings.admin.interface.voiceModePrompt.label": "Aghat sa mode sa tingog",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Himoang mga pangutana sa pagpangita sa web ang mga hangyo sa tiggamit.",

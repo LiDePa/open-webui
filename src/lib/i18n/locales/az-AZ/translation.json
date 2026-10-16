@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Təxirəsalma həddi (simvol)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Köməkçinin alət və funksiya çağırışlarını necə formatlaşdıracağını müəyyən edir.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Alətlər üçün funksiya çağırma göstərişi",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Səs rejimi aktiv olduqda səsə xüsusi təlimatlar tətbiq edin.",
 	"settings.admin.interface.voiceModePrompt.label": "Səs rejimi sorğusu",
 	"settings.admin.interface.webSearchQueryGeneration.description": "İstifadəçi sorğularını veb axtarış sorğularına çevirin.",

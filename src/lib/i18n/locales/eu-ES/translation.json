@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Geroratze-atalasea (karaktereak)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Laguntzaileak tresna- eta funtzio-deiei formatua nola ematen dien gidatzen du.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Tresnen funtzio-deietarako prompt-a",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Aplikatu ahotserako argibide espezifikoak ahots-modua aktibo dagoen bitartean.",
 	"settings.admin.interface.voiceModePrompt.label": "Ahots-moduko prompt-a",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Berridatzi erabiltzaileen eskaerak web-bilaketako kontsulta bihurtuz.",

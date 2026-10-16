@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Edasilükkamise lävi (märki)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Juhendab, kuidas assistent vormindab tööriistade ja funktsioonide kutseid.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Tööriistade funktsioonide kutsumise sisend",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Rakenda häälrežiimi ajal hääle jaoks mõeldud juhiseid.",
 	"settings.admin.interface.voiceModePrompt.label": "Häälrežiimi sisend",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Kirjuta kasutaja päringud ümber veebiotsingu päringuteks.",

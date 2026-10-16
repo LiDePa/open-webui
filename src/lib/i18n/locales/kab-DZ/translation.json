@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Amnar n uɛeṭṭel (isekkilen)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Yettwellih amek ara yemsel umallal isiwlen n yifecka d tesɣunin.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Aneftaɣ n usiwel n tesɣunin n yifecka",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Snes tinaḍin n taɣect mi ara yili uskar n taɣect d urmid.",
 	"settings.admin.interface.voiceModePrompt.label": "Aneftaɣ n uskar n taɣect",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Ales tira n yisuturen n useqdac am tuttriwin n unadi deg Web.",

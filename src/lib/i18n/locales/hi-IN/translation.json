@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "स्थगन सीमा (अक्षर)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "सहायक के टूल और फ़ंक्शन कॉल फ़ॉर्मैट करने का मार्गदर्शन करता है.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "टूल फ़ंक्शन कॉलिंग प्रॉम्प्ट",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "वॉइस मोड सक्रिय होने पर वॉइस-विशिष्ट निर्देश लागू करें.",
 	"settings.admin.interface.voiceModePrompt.label": "वॉइस मोड प्रॉम्प्ट",
 	"settings.admin.interface.webSearchQueryGeneration.description": "उपयोगकर्ता के अनुरोधों को वेब खोज क्वेरी के रूप में दोबारा लिखें.",

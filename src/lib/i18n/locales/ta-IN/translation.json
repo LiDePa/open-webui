@@ -2970,6 +2970,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "ஒத்திவைப்பு வரம்பு மதிப்பு (எழுத்துகள்)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "உதவியாளர் கருவி மற்றும் செயல்பாட்டு அழைப்புகளை எவ்வாறு வடிவமைக்கிறது என்பதை வழிநடத்துகிறது.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "கருவிகள் செயல்பாடு அழைப்பு வரியில்",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "குரல் பயன்முறை செயலில் இருக்கும்போது குரலுக்கான குறிப்பிட்ட வழிமுறைகளைப் பயன்படுத்தவும்.",
 	"settings.admin.interface.voiceModePrompt.label": "குரல் பயன்முறை ப்ராம்ட்",
 	"settings.admin.interface.webSearchQueryGeneration.description": "பயனர் கோரிக்கைகளை இணைய தேடல் வினவல்களாக மாற்றி எழுதவும்.",

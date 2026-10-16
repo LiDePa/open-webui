@@ -47,6 +47,7 @@
 		CONTEXT_COMPACTION_MODEL: '',
 		ENABLE_CONTEXT_COMPACTION: false,
 		CONTEXT_COMPACTION_TOKEN_THRESHOLD: 80000,
+		CONTEXT_COMPACTION_TOOL_TOKEN_THRESHOLD: null as number | null | undefined,
 		CONTEXT_COMPACTION_TOKEN_CAP: 80000,
 		CONTEXT_COMPACTION_RETENTION_PERCENTAGE: 40,
 		CONTEXT_COMPACTION_PROMPT_TEMPLATE: '',
@@ -331,6 +332,22 @@
 							step="1"
 							class={inputClass}
 							bind:value={chatConfig.CONTEXT_COMPACTION_TOKEN_THRESHOLD}
+						/>
+					</AdminSettingField>
+
+					<AdminSettingField
+						label={$i18n.t('settings.admin.interface.toolTokenThreshold.label')}
+						description={$i18n.t('settings.admin.interface.toolTokenThreshold.description')}
+						forId="context-compaction-tool-token-threshold"
+					>
+						<input
+							id="context-compaction-tool-token-threshold"
+							type="number"
+							min="0"
+							step="1"
+							class={inputClass}
+							placeholder={$i18n.t('Default')}
+							bind:value={chatConfig.CONTEXT_COMPACTION_TOOL_TOKEN_THRESHOLD}
 						/>
 					</AdminSettingField>
 

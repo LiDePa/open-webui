@@ -3004,6 +3004,8 @@
 	"settings.admin.interface.toolSearchThreshold.label": "Próg odroczenia (znaki)",
 	"settings.admin.interface.toolsFunctionCallingPrompt.description": "Określa, jak asystent formatuje wywołania narzędzi i funkcji.",
 	"settings.admin.interface.toolsFunctionCallingPrompt.label": "Prompt wywoływania funkcji (Tools)",
+	"settings.admin.interface.toolTokenThreshold.description": "",
+	"settings.admin.interface.toolTokenThreshold.label": "",
 	"settings.admin.interface.voiceModePrompt.description": "Stosuj instrukcje właściwe dla danego głosu, gdy tryb głosowy jest aktywny.",
 	"settings.admin.interface.voiceModePrompt.label": "Prompt trybu głosowego",
 	"settings.admin.interface.webSearchQueryGeneration.description": "Przekształcaj żądania użytkownika na zapytania wyszukiwania w internecie.",
